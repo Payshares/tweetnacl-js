@@ -1,6 +1,9 @@
 TweetNaCl.js
 ============
 
+*NOTE: this fork is unmaintained*
+
+
 Port of [TweetNaCl](http://tweetnacl.cr.yp.to) / [NaCl](http://nacl.cr.yp.to/)
 to JavaScript for modern browsers and Node.js. Public domain.
 
